@@ -1,0 +1,16 @@
+C:\projetos\TaskParallel\TaskParallel\bin\Debug\net5.0\TaskParallel.exe
+C:\projetos\TaskParallel\TaskParallel\bin\Debug\net5.0\TaskParallel.deps.json
+C:\projetos\TaskParallel\TaskParallel\bin\Debug\net5.0\TaskParallel.runtimeconfig.json
+C:\projetos\TaskParallel\TaskParallel\bin\Debug\net5.0\TaskParallel.runtimeconfig.dev.json
+C:\projetos\TaskParallel\TaskParallel\bin\Debug\net5.0\TaskParallel.dll
+C:\projetos\TaskParallel\TaskParallel\bin\Debug\net5.0\ref\TaskParallel.dll
+C:\projetos\TaskParallel\TaskParallel\bin\Debug\net5.0\TaskParallel.pdb
+C:\projetos\TaskParallel\TaskParallel\obj\Debug\net5.0\TaskParallel.csprojAssemblyReference.cache
+C:\projetos\TaskParallel\TaskParallel\obj\Debug\net5.0\TaskParallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\TaskParallel\TaskParallel\obj\Debug\net5.0\TaskParallel.AssemblyInfoInputs.cache
+C:\projetos\TaskParallel\TaskParallel\obj\Debug\net5.0\TaskParallel.AssemblyInfo.cs
+C:\projetos\TaskParallel\TaskParallel\obj\Debug\net5.0\TaskParallel.csproj.CoreCompileInputs.cache
+C:\projetos\TaskParallel\TaskParallel\obj\Debug\net5.0\TaskParallel.dll
+C:\projetos\TaskParallel\TaskParallel\obj\Debug\net5.0\ref\TaskParallel.dll
+C:\projetos\TaskParallel\TaskParallel\obj\Debug\net5.0\TaskParallel.pdb
+C:\projetos\TaskParallel\TaskParallel\obj\Debug\net5.0\TaskParallel.genruntimeconfig.cache
